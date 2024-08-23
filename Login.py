@@ -6,7 +6,7 @@ client_id = ""
 client_secret = ""
 
 # Telefon numarası (örnek: +90xxxxxxxxxx)
-phone_number = "+902129527243"
+phone_number = "+90xxxxxxxxxx"
 
 # İstek başlıkları
 headers = {
